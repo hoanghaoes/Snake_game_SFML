@@ -40,10 +40,11 @@
 <h2>demo game</h2>  
      <ul>
     <li>https://youtu.be/AzQAEZRR5Gk</li>
+  </ul>
 
 
 <h2>Tự đánh giá, hướng phát triển game tiếp theo</h2>  
     <ul>                                        
     <li>Game hoàn thiện chức năng cơ bản,tự đánh giá tầm 7-7,5. </li>
-    <li>Cần bổ sung phần điểm cao nhất, bảng xếp hạng , đồng thời tạo thêm nhiều bản đồ hơn cho game, mức độ khó của game tăng dần theo số điểm .</li>
+    <li>Cần bổ sung phần tạm dừng game, điểm cao nhất, bảng xếp hạng , tạo thêm nhiều bản đồ hơn cho game với các vật cản, buff, mức độ khó của game tăng dần theo số điểm .</li>
     </ul>
