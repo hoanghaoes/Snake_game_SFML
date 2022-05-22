@@ -15,7 +15,7 @@
 <h2>Mô tả trò chơi</h2>  
   <ul>
     <li>Là game điều khiển rắn ăn mụ tiêu bằng các nút điều hướng </li>
-    <li>Thay vì chơi trên điện thoại thì game chơi trên máy tình và sử dụng các nút trên bàn phím (lên, xuống, trái, phải,space,esc) để xử lí rắn di chuyển và chuyển trạng thái.</li>
+    <li>Game chơi trên máy tình, sử dụng các nút trên bàn phím (lên, xuống, trái, phải) để xử lí rắn di chuyển và chuyển trạng thái.</li>
     <li>Diều khiển rắn ăn quả để tăng kích thước, trò chơi kết thúc khi rắn chạm biên hoặc đầu va chạm với đuôi . </li>
   </ul>
 
