@@ -37,7 +37,7 @@
     <li>Sử dụng đồ họa từ SFML như SFML/Graphics.hpp, SFML/Audio.hpp để tăng sự sinh động cho game.</li>
     </ul>
 
-<h2>demo game</h2>  
+<h2>Game play video</h2>  
      <ul>
     <li>https://youtu.be/AzQAEZRR5Gk</li>
   </ul>
